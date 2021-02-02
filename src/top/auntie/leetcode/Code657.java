@@ -52,7 +52,7 @@ public class Code657 {
     }
 
     public static void main(String[] args) {
-        new Code657().judgeCircle("UDRL");
+        System.out.println(new Code657().judgeCircle("UDRL"));
     }
 
 }
